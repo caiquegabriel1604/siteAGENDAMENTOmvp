@@ -1,0 +1,24 @@
+.Menu-Simples{
+    display: flex;
+    justify-content: space-between;
+    background-color: aquamarine;
+    box-shadow: 20px 10px 20px;
+    padding: 18px;
+    border-radius: 40px;
+    color: rgb(39, 65, 135);
+    align-items: center;
+}
+
+.Menu-Simples nav a{
+    color: rgb(53, 50, 56);
+    margin-left: 15px;
+    background-color: rgb(168, 151, 222);
+    border-radius: 15px;
+    padding: 5px;
+}
+body{
+    background-color: rgb(27, 129, 181);
+}
+
+
+    
